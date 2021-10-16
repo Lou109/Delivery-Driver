@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 464304916}
   - component: {fileID: 464304915}
   m_Layer: 0
-  m_Name: Virtual Veronica's Van
+  m_Name: Virtual Van
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
