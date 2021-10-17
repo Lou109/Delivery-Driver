@@ -10,6 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 8646960384168262095}
   - component: {fileID: 9066140605614321520}
+  - component: {fileID: 8577200997500811500}
+  - component: {fileID: 7518690856910856055}
   m_Layer: 0
   m_Name: Rocks 1
   m_TagString: Untagged
@@ -82,3 +84,35 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!58 &8577200997500811500
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7723228898794174963}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.0000011920929, y: 0.435907}
+  serializedVersion: 2
+  m_Radius: 1.3128048
+--- !u!58 &7518690856910856055
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7723228898794174963}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -1.3077259, y: -1.1538734}
+  serializedVersion: 2
+  m_Radius: 0.5691986
